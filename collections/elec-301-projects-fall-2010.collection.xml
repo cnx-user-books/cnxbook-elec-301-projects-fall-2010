@@ -1,0 +1,17 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Rice University ELEC 301">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11251</md:content-id>
+    <md:title>Deblurring with Coded Apertures </md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>3690e047-31db-4f19-b805-afbc85a1285f</md:uuid>
+<md:slug>elec-301-projects-fall-2010</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m36369"/>
+    <col:module document="m36372"/>
+    <col:module document="m36368"/>
+    <col:module document="m36370"/>
+    <col:module document="m36371"/>
+  </col:content>
+</col:collection>
